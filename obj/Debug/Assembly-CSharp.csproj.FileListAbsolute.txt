@@ -1,2 +1,0 @@
-F:\DevelopmentFiles\Unity\Projects_V_3.0\Generals_Reimagined\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
-F:\DevelopmentFiles\Unity\Projects_V_3.0\Generals_Reimagined\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
