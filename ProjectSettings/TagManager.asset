@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerOne
+  - PlayerTwo
+  - GamePieces
+  - P1_GamePieces
+  - P2_GamePieces
+  - FiveStarGeneral
+  - FourStarGeneral
+  - ThreeStarGeneral
+  - TwoStarGenreal
+  - OneStarGeneral
+  - Colonel
+  - LtColonel
+  - Major
+  - Captain
+  - FirstLieutenant
+  - SecondLietenant
+  - Sergeant
+  - Spy
+  - Private
+  - P1_Flag
+  - P2_Flag
+  - P2_FiveStarGeneral
+  - P2_FourStarGeneral
+  - P2_ThreeStarGeneral
+  - P2_TwoStarGenreal
+  - P2_OneStarGeneral
+  - P2_Colonel
+  - P2_LtColonel
+  - P2_Major
+  - P2_Captain
+  - P2_SecondLietenant
+  - P2_FirstLieutenant
+  - P2_Sergeant
+  - P2_Spy
+  - P2_Private
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - P1_GamePieces
+  - P2_GamePieces
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
